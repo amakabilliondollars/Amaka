@@ -39,14 +39,14 @@
 
 ## :fire: Github Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiamakabello&show_icons=true&locale=en&theme=tokyonight" alt="chiamakabello" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amakabilliondollars&show_icons=true&locale=en&theme=tokyonight" alt="amakabilliondollars" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiamakabello&&theme=tokyonight" alt="chiamakabello" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amakabilliondollars&&theme=tokyonight" alt="amakabilliondollars" /></p>
 
 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=harmonyelendu&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+  <img src="https://komarev.com/ghpvc/?username=amakabilliondollars&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
 End here
