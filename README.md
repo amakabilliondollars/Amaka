@@ -48,7 +48,6 @@
   <img src="https://komarev.com/ghpvc/?username=amakabilliondollars&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
-End here
 
 Feel Like supporting me ? 
 - Star my GitHub 
