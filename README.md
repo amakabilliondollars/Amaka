@@ -15,7 +15,7 @@
 
 <ul>
   
-  <li>👨‍💻🗓 A Project Manager, I work endlessly organizing, critically planning and improving and projects to delivery stage for different brands and companies.</li>
+  <li>👨‍💻🗓 As A Project Manager, I work endlessly organizing, critically planning to improve projects to delivery stage for different brands and companies.</li>
   
   <li>📈🚀 I have a strong proclivity in analytical thinking, disciplined problem-solving, attention to detail, documentations, collaboration, and strong communication skills.</a>
   
@@ -30,9 +30,8 @@
 
 <h2>Connect with me</h3>
     <p>
-        <a href="https://www.linkedin.com/in/chiamakabello/"><img src="https://img.shields.io/badge/-Chiamaka%20Bello%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/chiamakabello" alt="LinkedIn Badge"></a> 
-      
-             <a href="mailto:elenduharmony@gmail.com"><img src="https://img.shields.io/badge/-Harmony%20Elendu-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:elenduharmony@gmail.com" alt="Gmail Badge"></a>
+        <a href="https://www.linkedin.com/in/chiamaka-bello-a381ab18a"><img src="https://img.shields.io/badge/-Chiamaka%20Bello%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/chiamaka-bello-a381ab18a" alt="LinkedIn Badge"></a>      
+             <a href="mailto:chiamakaosuh@gmail.com"><img src="https://img.shields.io/badge/-Chiamaka%20Bello-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:chiamakaosuh@gmail.com" alt="Gmail Badge"></a>
    </p> 
    
  <!-- Conecct section: END -->
